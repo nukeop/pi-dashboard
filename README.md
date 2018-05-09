@@ -32,6 +32,12 @@ They rotate every few seconds.
 * Disk monitor - shows free/used space
 * Network monitor - shows local IP and network utilization
 
+# Screenshots
+
+![1](https://i.imgur.com/KhSq0tD.jpg)
+
+![2](https://i.imgur.com/cKYmqez.jpg)
+
 # Contributing
 
 Feel free to open a pull request with anything you like.
