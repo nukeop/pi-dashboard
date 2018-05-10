@@ -13,6 +13,7 @@
     "blessed": "^0.1.81",
     "blessed-contrib": "^4.8.5",
     "internal-ip": "^3.0.1",
+    "isomorphic-fetch": "^2.2.1",
     "lodash": "^4.17.10",
     "systeminformation": "^3.40.0"
   }

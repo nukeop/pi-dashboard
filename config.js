@@ -1,3 +1,5 @@
 module.exports = {
-  monitoredDisk: '/dev/sdb3'
+  monitoredDisk: '/dev/sda1',
+  openWeatherMapApiKey: '',
+  weatherLocation: ''
 };
