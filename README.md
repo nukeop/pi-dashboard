@@ -31,6 +31,8 @@ They rotate every few seconds.
 
 * Disk monitor - shows free/used space
 * Network monitor - shows local IP and network utilization
+* Weather monitor - shows weather conditions at location selected in config
+* Ethereum price monitor - shows current Ethereum price and draws a chart (data from Coinbase API)
 
 # Screenshots
 
